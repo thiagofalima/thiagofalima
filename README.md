@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente trabalho como Instrutor de Formação Profissional<br>🤝 Buscando contribuir em novos projetos para me desenvolver<br>🌱 Me especializando em Django e em React.js<br>📫 Você pode me contatar pelo e-mail: thiagofalima@hotmail.com
+🔭 Atualmente trabalho como Instrutor de Formação Profissional<br>🤝 Buscando contribuir em novos projetos para me desenvolver<br>🌱 Me especializando em Django, FastAPI e em React.js<br>📫 Você pode me contatar pelo e-mail: thiagofalima@hotmail.com
 
 
 ## 🌐 Socials:
